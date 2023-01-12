@@ -3,11 +3,10 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import utils.Driver;
 import utils.TechGlobalUtil;
-import utils.Waiter;
 
 import java.util.List;
 
-public class _12_Child_Elements_Index {
+public class Automation_Assignment_TechGlobal2 {
 
     public static void main(String[] args) {
 
